@@ -42,6 +42,16 @@ Before running the script, ensure you have the following installed:
    ```bash
    mvn clean test
    
+Option 2: Run the script over IDE
+
+If you have installed in your IDE (e.g., IntelliJ IDEA or Eclipse), you can run the tests directly:
+
+    Open the project in your IDE.
+
+    Navigate to src/test/java/tests/LoginTest.java.
+
+    Right-click on the file and select Run
+   
 #Explanation of the Script's Functionality
 1. Page Object Model (POM)
 
