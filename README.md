@@ -33,3 +33,9 @@ Before running the script, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/semihaydin/ravenholm-requiem.git
+
+3. Navigate to the project directory
+   cd ravenholm-requiem
+
+4. Run Maven command
+   mvn clean test
